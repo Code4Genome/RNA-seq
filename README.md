@@ -19,8 +19,8 @@ The workflow includes quality control, alignment, quantification, differential e
 
 ## 📁 Project Structure
 
-├── data/ # Raw and processed data (FASTQ, counts)                              
-├── scripts/ # Analysis scripts (e.g., preprocessing, DESeq2)                                        
+├── data/ # Bash processing (FASTQ, STAR, HISAT2, etc.)                              
+├── scripts/ # Analysis scripts (DESeq2, KEGG)                                        
 ├── README.md #                               
     └── LICENSE
     
