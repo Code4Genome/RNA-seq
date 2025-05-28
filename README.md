@@ -27,5 +27,5 @@ The workflow includes quality control, alignment, quantification, differential e
 ## 🧬 Dataset Overview
 
 - **Experiment Type:** Bulk RNA-seq  
-- **Organism:** [Homo sapiens]  
-- **Sequencing Platform:** [Illumina]
+- **Organism:** Homo sapiens  
+- **Sequencing Platform:** Illumina
