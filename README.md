@@ -23,8 +23,8 @@ The workflow includes quality control, alignment, quantification, differential e
 ├── README.md #                               
     └── LICENSE
     
-## 🧬 Dataset Overview
+🧪 Project Overview
 
-- **Experiment Type:** Bulk RNA-seq  
-- **Organism:** Homo sapiens  
-- **Sequencing Platform:** Illumina
+**Assay**: Whole transcriptome bulk RNA-seq   
+**Sample Type**: Sorted Human PBMCs    
+**Sequencing Platform**: Illumina
