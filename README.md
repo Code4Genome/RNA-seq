@@ -5,12 +5,13 @@ However, it lacks the capability to capture the nuanced heterogeneity present wi
 
 RNA-Seq with next-generation sequencing (NGS) is increasingly the method of choice for scientists studying the transcriptome.
 
-    Benefits of RNA sequencing:
     Covers an extremely broad dynamic range
     Provides sensitive, accurate measurement of gene expression
     Captures both known and novel features; does not require predesigned probes
     Generates both qualitative and quantitative data
     Reveals the full transcriptome, not just a few selected transcripts
+
+More info: https://emea.illumina.com/techniques/sequencing/rna-sequencing.html
     
 This repository contains scripts, data processing steps, and results for a bulk RNA-seq analysis pipeline. 
 The workflow includes quality control, alignment, quantification, differential expression, and functional enrichment analysis.
