@@ -60,7 +60,7 @@ resultsNames(ddsObject)
 results.simple
 summary(results.simple)
 results.simple %>% as.data.frame()%>% View()
-write.csv(results.simple, file = "Mono_MS_vs_HD.csv")
+write.csv(results.simple, file = "B_vs_A.csv")
 
 sum(results.simple$padj <0.05 & results.simple$log2FoldChange > 1, na.rm = T)
 upregulated <- subset(results.simple, log2FoldChange > 1 & padj < 0.05)
