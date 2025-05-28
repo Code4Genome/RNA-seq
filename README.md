@@ -1,7 +1,8 @@
 # 📈 Bulk RNA-seq Analysis
-Bulk RNA sequencing is the method of choice for transcriptomic analysis of pooled cell populations, tissue sections, or biopsies. 
-It measures the average expression level of individual genes across hundreds to millions of input cells and is useful to get a 
-global idea of gene expression differences between samples.
+Bulk RNA sequencing is the method of choice for transcriptomic analysis of pooled cell populations, 
+tissue sections, or biopsies. 
+It measures the average expression level of individual genes across hundreds to millions of input 
+cells and is useful to get a global idea of gene expression differences between samples.
 
 RNA-Seq with next-generation sequencing (NGS) is increasingly the method of choice for scientists studying the transcriptome.
 
@@ -22,4 +23,9 @@ The workflow includes quality control, alignment, quantification, differential e
 ├── scripts/ # Analysis scripts (e.g., preprocessing, DESeq2)                                        
 ├── README.md #                               
     └── LICENSE
+    
+## 🧬 Dataset Overview
 
+- **Experiment Type:** Bulk RNA-seq  
+- **Organism:** [Homo sapiens]  
+- **Sequencing Platform:** [Illumina]
