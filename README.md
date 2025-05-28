@@ -23,7 +23,7 @@ The workflow includes quality control, alignment, quantification, differential e
 ├── README.md #                               
     └── LICENSE
     
-🧪 Project Overview
+## 🧪 Project Overview
 
 **Assay**: Whole transcriptome bulk RNA-seq   
 **Sample Type**: Sorted Human PBMCs    
